@@ -9,4 +9,4 @@ Run the following commands:
        npm install
        npm start
    
-Test the app locally or online using a live server.
+Test the app locally or online using a live server. 
