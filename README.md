@@ -2,10 +2,8 @@ Build Instructions
 Navigate to the src/ directory using your terminal.
 Run the following commands:
 1) first run server
-
-   
      npm install
-     then,npm start
+     npm start
 
 3) second run client
    
