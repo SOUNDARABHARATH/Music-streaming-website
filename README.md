@@ -1,4 +1,4 @@
-Here's a corrected README file format based on the details you provided:
+Here's the updated README file with instructions for setting up Firebase Authentication and downloading the necessary JSON file for authentication:
 
 ---
 
@@ -21,6 +21,27 @@ Here's a corrected README file format based on the details you provided:
 4. **MongoDB**: Database for storing user data, playlists, and song metadata.
 5. **Firebase Storage**: Store and manage audio files for streaming.
 6. **React.js**: Frontend library for building user interfaces and components.
+
+## Firebase Setup
+
+### 1. Create Firebase Account and Project
+1. Go to [Firebase Console](https://console.firebase.google.com/).
+2. Log in with your Google account or create a new one if needed.
+3. Click **Add Project** and follow the steps to create a new Firebase project.
+4. Enable Firebase Authentication:
+    - Navigate to the **Authentication** section from the left-hand menu.
+    - Click **Get Started**, then choose **Email/Password** and enable it.
+5. Enable Firebase Storage:
+    - Navigate to the **Storage** section and click **Get Started** to set up Firebase Storage for your app.
+
+### 2. Download Firebase JSON File for Authentication
+1. In your Firebase project, go to **Project Settings** by clicking on the gear icon at the top left of the Firebase Console.
+2. Scroll down to the **Your Apps** section and click on the **</>** (Web) icon to register your web app.
+3. After registering the app, you’ll be presented with Firebase SDK credentials.
+4. Download the `google-services.json` file:
+    - Under the **Firebase SDK Snippet**, click **Download the config file**.
+    - Save this file in the root of your project directory.
+
 
 ## Build Instructions
 
@@ -52,4 +73,4 @@ Here's a corrected README file format based on the details you provided:
 
 ---
 
-This version of the README is clear, concise, and structured for easy understanding and implementation.
+This README now includes the steps for setting up Firebase, enabling authentication, and integrating the JSON file for authentication into your project.
