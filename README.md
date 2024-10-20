@@ -71,4 +71,4 @@
 
 ---
 
-This README now includes the steps for setting up Firebase, enabling authentication, and integrating the JSON file for authentication into your project.
+
