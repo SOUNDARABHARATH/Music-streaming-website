@@ -1,5 +1,4 @@
 
----
 
 # Music Streaming Web Application
 
