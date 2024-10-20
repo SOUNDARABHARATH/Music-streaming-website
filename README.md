@@ -1,4 +1,3 @@
-Here's the updated README file with instructions for setting up Firebase Authentication and downloading the necessary JSON file for authentication:
 
 ---
 
